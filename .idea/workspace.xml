@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="103b205c-41bd-43e0-bb7f-5c602be28087" name="Default Changelist" comment="fixup and adding new test user" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="new_app" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1okc7qOF0zayKcF0hD0yGu47L86" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="doto_app_tryout" type="Python.DjangoServer" factoryName="Django server">
+      <module name="doto_app_tryout" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="doto_app_tryout.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="103b205c-41bd-43e0-bb7f-5c602be28087" name="Default Changelist" comment="" />
+      <created>1613833864847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613833864847</updated>
+      <workItem from="1613833879688" duration="2800000" />
+      <workItem from="1613854870973" duration="401000" />
+      <workItem from="1613912433421" duration="3434000" />
+      <workItem from="1614190090840" duration="152000" />
+      <workItem from="1614700398119" duration="1744000" />
+    </task>
+    <task id="LOCAL-00001" summary="added urls">
+      <created>1613853858837</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613853858837</updated>
+    </task>
+    <task id="LOCAL-00002" summary="list lists">
+      <created>1613853921483</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613853921483</updated>
+    </task>
+    <task id="LOCAL-00003" summary="forms &amp; models">
+      <created>1613854051927</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613854051927</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding files">
+      <created>1613854291373</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613854291373</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding files">
+      <created>1613854296761</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613854296761</updated>
+    </task>
+    <task id="LOCAL-00006" summary="wip">
+      <created>1613855099718</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613855099718</updated>
+    </task>
+    <task id="LOCAL-00007" summary="migrations">
+      <created>1613912584577</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613912584578</updated>
+    </task>
+    <task id="LOCAL-00008" summary="index page">
+      <created>1613917292632</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613917292632</updated>
+    </task>
+    <task id="LOCAL-00009" summary="index page">
+      <created>1613917754356</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613917754356</updated>
+    </task>
+    <task id="LOCAL-00010" summary="index page">
+      <created>1613918159988</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1613918159988</updated>
+    </task>
+    <task id="LOCAL-00011" summary="todo lists listing empty lists">
+      <created>1613918339451</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1613918339451</updated>
+    </task>
+    <task id="LOCAL-00012" summary="todo lists listing empty lists">
+      <created>1613918499494</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1613918499494</updated>
+    </task>
+    <task id="LOCAL-00013" summary="todo lists listing empty lists">
+      <created>1613918841246</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1613918841247</updated>
+    </task>
+    <task id="LOCAL-00014" summary="todo lists listing empty lists">
+      <created>1613918847184</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1613918847184</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fixup">
+      <created>1614700425467</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1614700425467</updated>
+    </task>
+    <task id="LOCAL-00016" summary="adding gitignore file">
+      <created>1614700494393</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1614700494393</updated>
+    </task>
+    <task id="LOCAL-00017" summary="adding requirements file">
+      <created>1614700570667</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1614700570667</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fixup and adding new test user">
+      <created>1614701675115</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1614701675115</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added urls" />
+    <MESSAGE value="list lists" />
+    <MESSAGE value="forms &amp; models" />
+    <MESSAGE value="Adding files" />
+    <MESSAGE value="wip" />
+    <MESSAGE value="migrations" />
+    <MESSAGE value="index page" />
+    <MESSAGE value="todo lists listing empty lists" />
+    <MESSAGE value="fixup" />
+    <MESSAGE value="adding gitignore file" />
+    <MESSAGE value="adding requirements file" />
+    <MESSAGE value="fixup and adding new test user" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixup and adding new test user" />
+  </component>
+</project>
