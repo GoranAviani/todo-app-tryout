@@ -5,6 +5,7 @@ from todo import views
 
 app_name = "todo"
 
+
 urlpatterns = [
     path("", views.list_lists, name="lists"),
     path("mine/", views.list_detail, {"list_slug": "mine"}, name="mine"),
