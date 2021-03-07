@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="103b205c-41bd-43e0-bb7f-5c602be28087" name="Default Changelist" comment="fixup and adding new test user" />
+    <list default="true" id="103b205c-41bd-43e0-bb7f-5c602be28087" name="Default Changelist" comment="fixup and adding new test user">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="new_app" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -34,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exploring_django_todo" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager">
@@ -76,6 +81,8 @@
       <workItem from="1613912433421" duration="3434000" />
       <workItem from="1614190090840" duration="152000" />
       <workItem from="1614700398119" duration="1744000" />
+      <workItem from="1614702244629" duration="274000" />
+      <workItem from="1615116591300" duration="91000" />
     </task>
     <task id="LOCAL-00001" summary="added urls">
       <created>1613853858837</created>
@@ -203,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614701675115</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="fixup and adding new test user">
+      <created>1614702330358</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1614702330358</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
